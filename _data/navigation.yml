@@ -48,6 +48,8 @@
     url: "/changelog/"
   - title: "Roadmap"
     url: "/roadmap/"
+  - title: "Extension news page"
+    url: "/extension-news/"
 
 - title: Blog
   url: "/blog/"
