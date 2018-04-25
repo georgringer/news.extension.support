@@ -32,7 +32,7 @@
     url: "/design/portfolio/"
 
 - title: "Extensions"
-  url: "/extensions/"
+  url: "/extension/"
   side: left
   dropdown:
   - title: "news"
