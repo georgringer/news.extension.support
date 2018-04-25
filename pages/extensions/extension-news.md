@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Change is good!"
+title: "Extension ness page!"
 meta_title: "Feeling Responsive Theme Changelog"
-subheadline: "Feeling Responsive Theme Changelog"
-teaser: "History and changelog of Feeling Responsive Theme"
+subheadline: "make it cool"
+teaser: "cool teasers"
 header:
    image_fullwidth: "header_unsplash_9.jpg"
 permalink: "/extension-news/"
