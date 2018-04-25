@@ -5,7 +5,7 @@ title: "Available extensions"
 subheadline: "Layouts of Feeling Responsive"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/extensions/"
+permalink: "/extension/"
 ---
 <ul>
     {% for post in site.categories.extension %}
